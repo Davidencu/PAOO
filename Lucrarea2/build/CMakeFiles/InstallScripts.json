@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/Davidencu/poli/4/PAOO/Lucrarea2/build/cmake_install.cmake",
+		"/home/Davidencu/poli/4/PAOO/Lucrarea2/build/MathLib/cmake_install.cmake",
+		"/home/Davidencu/poli/4/PAOO/Lucrarea2/build/App/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
