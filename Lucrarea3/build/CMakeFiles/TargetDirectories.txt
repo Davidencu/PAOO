@@ -1,0 +1,3 @@
+/home/Davidencu/poli/4/PAOO/Lucrarea3/build/CMakeFiles/tema_app.dir
+/home/Davidencu/poli/4/PAOO/Lucrarea3/build/CMakeFiles/edit_cache.dir
+/home/Davidencu/poli/4/PAOO/Lucrarea3/build/CMakeFiles/rebuild_cache.dir
