@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/buffer_demo.dir/link.d CMakeFiles/buffer_demo.dir/src/buffer_demo.cpp.o -o buffer_demo
