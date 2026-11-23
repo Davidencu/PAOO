@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/lucrarea5si6.dir/link.d CMakeFiles/lucrarea5si6.dir/src/main.cpp.o -o lucrarea5si6
